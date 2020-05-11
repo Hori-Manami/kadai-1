@@ -16,7 +16,7 @@ main {
 }
 
 .image1 {
-	height: 130px;
+	height: 150px;
 	background-image: url(img/flow01.png);
 	background-size: cover;
     background-position: bottom;
@@ -32,7 +32,7 @@ main {
 }
 
 .image2 {
-	height: 130px;
+	height: 150px;
 	background-image: url(img/flow02.png);
 	background-size: cover;
     background-position: bottom;
@@ -47,7 +47,7 @@ main {
 }
 
 .image3 {
-	height: 130px;
+	height: 150px;
 	background-image: url(img/flow03.png);
 	background-size: cover;
     background-position: bottom;
@@ -76,18 +76,17 @@ main {
     .box1 {
     	width: 90%;
     	float: none;
-    	margin-top: 50px;
+    	margin: 50px auto 0;
     }
 
     .box2 {
     	width: 90%;
     	float: none;
-    	margin-top: 20px;
+    	margin: 20px auto 0;
     }
 
     .box3 {
     	width: 90%;
     	float: none;
-    	margin-top: 20px;
-    	margin-bottom: 50px;
+    	margin: 20px auto 50px;
     }
